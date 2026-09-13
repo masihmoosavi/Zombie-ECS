@@ -140,6 +140,7 @@ Zombie-ECS
 ├── Authoring
 │   ├── BrainMono
 │   ├── GraveyardMono
+|   ├── CameraSingleton
 │   └── ZombieMono
 │
 ├── Components
